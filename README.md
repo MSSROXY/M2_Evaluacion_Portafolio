@@ -44,5 +44,25 @@ Incluye tarjetas de proyectos con:
 - Detección de errores de input
 - Envío simulado (puede conectarse a backend o email service más adelante)
 
-### 🔹 **5. Footer Call-To-Action**
-Botón directo a contacto vía email.
+
+## Cómo usar este portafolio
+
+Para ver el portafolio en tu máquina local, sigue estos pasos:
+
+1. **Clonar el repositorio**
+```bash
+git clone https://github.com/MSSROXY/M2_Evaluacion_Portafolio.git
+```
+
+2. **Entrar a la carpeta del proyecto**
+```bash
+cd M2_Evaluacion_Portafolio
+```
+
+3. **Abrir el portafolio en un navegador**
+- Puedes abrir el archivo index.html directamente con tu navegador favorito.
+- O, si quieres un servidor local (recomendado para probar funcionalidades de JS):
+
+4. **Navegar por el portafolio**
+Puedes recorrer todas las secciones: Home, Sobre mí, Proyectos y Contacto.
+El formulario de contacto simula el envío de un mensaje (no envía correos reales).
